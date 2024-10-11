@@ -1,1 +1,1 @@
-# Repository untuk tutorial git
+# Repository untuk tutorial git untuk pemula
